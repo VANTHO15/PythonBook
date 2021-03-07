@@ -1,0 +1,8 @@
+Tổng quan : https://trello.com/b/IFUE1o1r/path-learn
+
+ml&Data scien: https://www.youtube.com/watch?v=zhZNpYgV-p8&list=PLmgFBlMZpMaTAFLGhbZ-c6iPizdGV7MNY&index=402&t=0s
+
+pandas:  https://www.youtube.com/watch?v=ZkB1GuQKfU8&list=PLmgFBlMZpMaTAFLGhbZ-c6iPizdGV7MNY&index=629&t=0s
+
+numpy : https://www.youtube.com/playlist?list=PLVb87wRBIjUDP7dxJnoLfkqMNZaW8gxjc
+
